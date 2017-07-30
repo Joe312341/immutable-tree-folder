@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "comma-dangle": "off"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "eslintConfig": {
+    "globals": {
+      "document": true
+    }
+  }
+}
