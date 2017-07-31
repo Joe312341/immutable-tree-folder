@@ -14,3 +14,7 @@ Currently the tree nodes do not contain their respective paths. Instead the immu
 1. Clone the repo
 2. npm install
 3. npm start
+
+# Demo
+
+View the demo [here](https://safe-brook-91423.herokuapp.com/)
